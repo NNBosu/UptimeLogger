@@ -10,6 +10,7 @@ const {
     MessageEmbed,
     MessageSelectMenu,  
 } = require("discord.js");
+const Discord = require("discord.js");
 
 const client = new Client({
     shards: 'auto',
@@ -33,7 +34,7 @@ const client = new Client({
     ],
     presence: {
         activities: [{
-            name: `Uptime Logger`,
+            name: `Dream Community`,
             type: "WATCHING",
         }],
         status: "online"
@@ -95,7 +96,7 @@ client.on("presenceUpdate", async (oldPresence, newPresence) => {
 client.login(process.env.TOKEN);
 
 client.logger = (data) => {
-  let logstring = `${String(`M` + `i` + `l` + `a` + `n` + `i` + `o` + ` Logs`).brightGreen}${` | `.grey}${`${moment().format("ddd DD-MM-YYYY HH:mm:ss.SSSS")}`.cyan}${` [::] `.magenta}`
+  let logstring = `${String(`M` + `a` + `d` + `e` + ` B` + `y` + ` Bosu`).brightGreen}${` | `.grey}${`${moment().format("ddd DD-MM-YYYY HH:mm:ss.SSSS")}`.cyan}${` [::] `.magenta}`
   if (typeof data == "string") {
     console.log(logstring, data.split("\n").map(d => `${d}`.green).join(`\n${logstring} `))
   } else if (typeof data == "object") {
@@ -140,13 +141,3 @@ process.on('uncaughtExceptionMonitor', (err, origin) => { // Needed
   console.log('[antiCrash] :: [uncaughtExceptionMonitor]');
   console.log(err, origin);
 });
-
-/**********************************************************
- * @INFO
- * Bot Coded by Zedro#2742 | https://discord.gg/8fYUFxMtAq
- * @INFO
- * Work for Milanio Development | https://discord.gg/8fYUFxMtAq
- * @INFO
- * Please Mention Us Milanio Development, When Using This Code!
- * @INFO
- *********************************************************/

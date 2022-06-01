@@ -1,16 +1,21 @@
-# Copyright 
-MaDwin &amp; Zedro &amp; R J
+# Uptime logger 
 
-# credits
-This bot was made by Zedro#2742
-If you use this code and / or make a video on it without credits, your video/bot will be taken down
-please support us and consider joining our Discord Server
-if you find any type of please report them to us
+Fast and easy to setup, as well as expand / smooth out!
 
-# Any help join 
-Madwin | Development ( https://discord.gg/JPUTVyKQRn )
-Milanio | Development ( https://discord.gg/t74dtTk9J2 )
-RJ WOULD ( https://discord.gg/wcvXfBdu8D )
+## [Enjoy and join my Discord Server](https://discord.gg/RvV9Sj4c3r)
 
-# Run 
-•npm start
+> [Replit Fork](https://replit.com/@NNBosu/Uptime-Logger?v=1)
+
+
+*If you decide to use this Repository, please credit me!*
+
+<br/>
+  
+***
+
+## [Discord Server 😎](https://discord.gg/RvV9Sj4c3r)
+<a href="https://discord.gg/RvV9Sj4c3r"><img src="https://cdn.discordapp.com/attachments/973330571306598410/980942795319689246/standard.gif"></a>
+
+# Credits
+
+> If consider using this Bot, make sure to credit me
