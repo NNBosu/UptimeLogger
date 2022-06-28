@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madwinmp4/Uptime-Logger.git"
+    "url": "git+https://github.com/NNBosu/Uptime-Logger.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/madwinmp4/Uptime-Logger/issues"
+    "url": "https://github.com/NNBosu/Uptime-Logger"
   },
-  "homepage": "https://github.com/madwinmp4/Uptime-Logger#readme"
+  "homepage": "https://github.com/NNBosu/Uptime-Logger"
 }
